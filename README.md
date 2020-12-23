@@ -16,7 +16,12 @@ https://www.musipedia.org/melodic_contour.html
 [그림 조언 모음글](https://molpoi.tistory.com/2)
 ## Quotes
 [Quotes Investigator](https://quoteinvestigator.com/2010/05/21/death-statistic/)
-> A Single Death Is a Tragedy; A Million Deaths Is a Statistic.  
+> [A Single Death Is a Tragedy; A Million Deaths Is a Statistic.](https://quoteinvestigator.com/2010/05/21/death-statistic/)  
 > 한 명의 죽음은 비극이지만 백만 명의 죽음은 통계일 뿐이다.
 >
 > &mdash; 이오시프 스탈린
+
+> [I Destroy My Enemies When I Make Them My Friends.](https://quoteinvestigator.com/2020/05/13/make-friends/)  
+> 적을 없애는 가장 좋은 방법은 그들을 친구로 만드는 것이다.
+>
+> &mdash; 에이브러햄 링컨?
