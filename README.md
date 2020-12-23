@@ -14,3 +14,9 @@ https://www.musipedia.org/melodic_contour.html
 ## 그림 그리기
 [초보자분들을 위한 나의 기초훈련방법 소개](https://www.sunmeism.com/274)
 [그림 조언 모음글](https://molpoi.tistory.com/2)
+## Quotes
+[Quotes Investigator](https://quoteinvestigator.com/2010/05/21/death-statistic/)
+> A Single Death Is a Tragedy; A Million Deaths Is a Statistic.  
+> 한 명의 죽음은 비극이지만 백만 명의 죽음은 통계일 뿐이다.
+>
+> &mdash; 이오시프 스탈린
