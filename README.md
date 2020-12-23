@@ -30,3 +30,8 @@ https://www.musipedia.org/melodic_contour.html
 > 작가는 문명이 파괴되는 것을 막기 위해 존재한다.
 >
 > &mdash; 알베르 카뮈?
+
+> [Art is a lie that makes us realize truth.](https://quoteinvestigator.com/2019/10/29/lie-truth/)  
+> 예술은 진실을 깨닫게 하는 거짓말이다.
+>
+> &mdash; 파블로 피카소
