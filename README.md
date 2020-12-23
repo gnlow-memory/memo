@@ -25,3 +25,8 @@ https://www.musipedia.org/melodic_contour.html
 > 적을 없애는 가장 좋은 방법은 그들을 친구로 만드는 것이다.
 >
 > &mdash; 에이브러햄 링컨?
+
+> [The Purpose of the Writer Is To Keep Civilization from Destroying Itself](https://quoteinvestigator.com/2019/11/08/keep/)  
+> 작가는 문명이 파괴되는 것을 막기 위해 존재한다.
+>
+> &mdash; 알베르 카뮈?
