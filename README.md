@@ -35,3 +35,5 @@ https://www.musipedia.org/melodic_contour.html
 > 예술은 진실을 깨닫게 하는 거짓말이다.
 >
 > &mdash; 파블로 피카소
+## ㅁㄴㅇㄹ
+- 엔트리 API의 타임스탬프는 UTC 기준인 것 같다.
