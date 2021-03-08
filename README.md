@@ -14,6 +14,8 @@ https://www.musipedia.org/melodic_contour.html
 ## 그림 그리기
 [초보자분들을 위한 나의 기초훈련방법 소개](https://www.sunmeism.com/274)
 [그림 조언 모음글](https://molpoi.tistory.com/2)
+## 작곡하기
+[Ample Guitar M Lite II](https://www.amplesound.net/en/download.asp)
 ## Quotes
 [Quotes Investigator](https://quoteinvestigator.com/2010/05/21/death-statistic/)
 > [A Single Death Is a Tragedy; A Million Deaths Is a Statistic.](https://quoteinvestigator.com/2010/05/21/death-statistic/)  
