@@ -39,3 +39,16 @@ https://www.musipedia.org/melodic_contour.html
 > &mdash; 파블로 피카소
 ## ㅁㄴㅇㄹ
 - 엔트리 API의 타임스탬프는 UTC 기준인 것 같다.
+
+## 인공어 전산화
+### 입력
+#### 키보드
+- [Stelian Keyboard](https://github.com/junhg0211/stelian-keyboard)
+#### Virtual Keyboard
+- [Simple-keyboard](https://virtual-keyboard.js.org/)
+### 출력
+#### 글꼴 제작
+- FontForge
+#### 조판
+- [Graphite](https://scripts.sil.org/cms/scripts/page.php?site_id=projects&item_id=graphite_home)
+- Metafont
